@@ -1,0 +1,12 @@
+.background {
+  display: flex;
+  background: linear-gradient(
+    90deg,
+    rgb(231, 113, 16) 0%,
+    rgb(246, 212, 61) 100%
+  );
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  min-height: 100vh;
+}

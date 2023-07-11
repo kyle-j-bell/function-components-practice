@@ -1,0 +1,25 @@
+.typhlosionType {
+  background-color: red;
+  color: white;
+}
+
+.typhlosionMove {
+  background-color: #ffffff;
+  color: #ff0000;
+}
+
+.bulbasaurType {
+  background-color: green;
+  color: white;
+}
+
+.bulbasaurMove {
+  background-color: #ffffff;
+  color: #00ff00;
+}
+
+.typhlosion,
+.bulbasaur {
+  border: solid black 1px;
+  font-family: Arial, Helvetica, sans-serif;
+}
